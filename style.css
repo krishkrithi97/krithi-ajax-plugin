@@ -1,0 +1,21 @@
+/* @import url("//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css"); */
+.button-demo {
+	padding: 15px 100px;
+
+}
+
+.report-a-bug-message {
+    display: none;
+    margin-top: 1em;
+}
+
+.report-a-bug-response {
+    margin-top: 1em;
+}
+.input {
+	background-color: #eee;
+	border: none;
+	padding: 12px 15px;
+	margin: 8px 0;
+	width: 100%;
+}
